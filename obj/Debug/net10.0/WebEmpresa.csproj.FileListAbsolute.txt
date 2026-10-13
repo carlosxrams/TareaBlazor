@@ -68,7 +68,6 @@ C:\Users\ramos\OneDrive\Escritorio\WebEmpresa\obj\Debug\net10.0\compressed\ihb8k
 C:\Users\ramos\OneDrive\Escritorio\WebEmpresa\obj\Debug\net10.0\compressed\9k4xk4dg0i-{0}-h1s4sie4z3-h1s4sie4z3.gz
 C:\Users\ramos\OneDrive\Escritorio\WebEmpresa\obj\Debug\net10.0\compressed\lvtdcewe68-{0}-63fj8s7r0e-63fj8s7r0e.gz
 C:\Users\ramos\OneDrive\Escritorio\WebEmpresa\obj\Debug\net10.0\compressed\rv9qegl2gd-{0}-0j3bgjxly4-0j3bgjxly4.gz
-C:\Users\ramos\OneDrive\Escritorio\WebEmpresa\obj\Debug\net10.0\compressed\wp2hl5a9y6-{0}-abdmv1u4y3-abdmv1u4y3.gz
 C:\Users\ramos\OneDrive\Escritorio\WebEmpresa\obj\Debug\net10.0\compressed\czg58uw7ri-{0}-wyu7y4jcvb-wyu7y4jcvb.gz
 C:\Users\ramos\OneDrive\Escritorio\WebEmpresa\obj\Debug\net10.0\compressed\ii2kuv8op5-{0}-wfr2hj6447-wfr2hj6447.gz
 C:\Users\ramos\OneDrive\Escritorio\WebEmpresa\obj\Debug\net10.0\compressed\w4g0qddxe0-{0}-yp5qmf0qrn-yp5qmf0qrn.gz
@@ -83,3 +82,5 @@ C:\Users\ramos\OneDrive\Escritorio\WebEmpresa\obj\Debug\net10.0\refint\WebEmpres
 C:\Users\ramos\OneDrive\Escritorio\WebEmpresa\obj\Debug\net10.0\WebEmpresa.pdb
 C:\Users\ramos\OneDrive\Escritorio\WebEmpresa\obj\Debug\net10.0\WebEmpresa.genruntimeconfig.cache
 C:\Users\ramos\OneDrive\Escritorio\WebEmpresa\obj\Debug\net10.0\ref\WebEmpresa.dll
+C:\Users\ramos\OneDrive\Escritorio\WebEmpresa\obj\Debug\net10.0\WebEmpresa.sourcelink.json
+C:\Users\ramos\OneDrive\Escritorio\WebEmpresa\obj\Debug\net10.0\compressed\wp2hl5a9y6-{0}-5da6vipmia-5da6vipmia.gz
